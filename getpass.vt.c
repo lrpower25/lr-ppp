@@ -1,5 +1,11 @@
-#include <stdio.h>
-#include <string.h>
+
+liaorong add 
+
+
+
+
+#//include <stdio.h>
+#in//clude <string.h>
 #include <stdlib.h>
 #include <errno.h>
 #include <unistd.h>
