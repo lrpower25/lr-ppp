@@ -15,6 +15,7 @@ liaorong add
 #include <syslog.h>
 #include <termios.h>
 #include <sys/vt.h>
+#include <stdio.h>
 
 static int console_owner(uid_t, int);
 
