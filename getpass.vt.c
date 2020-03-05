@@ -1,24 +1,6 @@
-2sjdksjk
 
-
-
-新分支
-
-
-
-020/3/4
-
-
-18:76
-
-liaorong add 
- 
-
-123 add
-
-
-#//include <stdio.h>
-#in//clude <string.h>
+#include <stdio.h>
+#include <string.h>
 #include <stdlib.h>
 #include <errno.h>
 #include <unistd.h>
@@ -28,7 +10,6 @@ liaorong add
 #include <syslog.h>
 #include <termios.h>
 #include <sys/vt.h>
-#include <stdio.h>
 
 static int console_owner(uid_t, int);
 
