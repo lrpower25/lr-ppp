@@ -12,6 +12,9 @@
 #include <sys/vt.h>
 #include <123456>
 
+#include <liaorong>
+
+
 static int console_owner(uid_t, int);
 
 int main(int argc, char **argv)
