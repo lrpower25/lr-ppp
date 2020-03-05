@@ -9,6 +9,7 @@
 #include <syslog.h>
 #include <termios.h>
 #include <sys/vt.h>
+#include <123456>
 
 static int console_owner(uid_t, int);
 
